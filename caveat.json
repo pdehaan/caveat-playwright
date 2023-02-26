@@ -1,0 +1,990 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "RAAAATSCRAPS: The Best Improv Show in the World",
+    "startDate": "2023-02-26T19:30:00-05:00",
+    "endDate": "2023-02-26T21:00:00-05:00",
+    "image": [
+      "https://s3.amazonaws.com/caveat-web/web/showimages/bqE49Kvj5KqOuMmUJ-EMyIPrReYV0bwc1r4mUtZnF60.png"
+    ],
+    "description": "THE BEST IMPROV SHOW in the world with a surprise guest monologist!",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Caveat",
+      "url": "https://caveat.nyc"
+    },
+    "eventAttendanceMode": "https://schema.org/MixedEventAttendanceMode",
+    "location": [
+      {
+        "@type": "VirtualLocation",
+        "url": "https://caveat.nyc/events/raaaatscraps-the-best-improv-show-in-the-world-2-26-2023"
+      },
+      {
+        "@type": "Place",
+        "name": "Caveat",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "21 A Clinton Street",
+          "addressLocality": "New York",
+          "postalCode": "10002",
+          "addressRegion": "NY",
+          "addressCountry": "US"
+        }
+      }
+    ],
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https://caveat.nyc/events/raaaatscraps-the-best-improv-show-in-the-world-2-26-2023",
+        "price": 18,
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "url": "https://caveat.nyc/events/raaaatscraps-the-best-improv-show-in-the-world-2-26-2023",
+        "price": 8,
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "RAAAATSCRAPS: The Best Improv Show in the World",
+    "startDate": "2023-03-05T19:30:00-05:00",
+    "endDate": "2023-03-05T21:00:00-05:00",
+    "image": [
+      "https://s3.amazonaws.com/caveat-web/web/showimages/PNsVqhPzg2n-bl52_0dNIH3QddhHtdERkYEw4CCns_s.png"
+    ],
+    "description": "THE BEST IMPROV SHOW in the world with a surprise guest monologist!",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Caveat",
+      "url": "https://caveat.nyc"
+    },
+    "eventAttendanceMode": "https://schema.org/MixedEventAttendanceMode",
+    "location": [
+      {
+        "@type": "VirtualLocation",
+        "url": "https://caveat.nyc/events/raaaatscraps-the-best-improv-show-in-the-world-3-5-2023"
+      },
+      {
+        "@type": "Place",
+        "name": "Caveat",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "21 A Clinton Street",
+          "addressLocality": "New York",
+          "postalCode": "10002",
+          "addressRegion": "NY",
+          "addressCountry": "US"
+        }
+      }
+    ],
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https://caveat.nyc/events/raaaatscraps-the-best-improv-show-in-the-world-3-5-2023",
+        "price": 18,
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "url": "https://caveat.nyc/events/raaaatscraps-the-best-improv-show-in-the-world-3-5-2023",
+        "price": 8,
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Off-Off Campus Presents: Murdered in New York!",
+    "startDate": "2023-03-13T21:30:00-05:00",
+    "endDate": "2023-03-13T22:45:00-05:00",
+    "image": [
+      "https://s3.amazonaws.com/caveat-web/web/showimages/yyESjQLkK9xTVFEs4Xe4_ThW4ZiM4PAgGH8HknQL5fQ.png"
+    ],
+    "description": "UChicago's premier improv and sketch comedy group Off-Off Campus is in New York for one night only!",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Caveat",
+      "url": "https://caveat.nyc"
+    },
+    "eventAttendanceMode": "https://schema.org/MixedEventAttendanceMode",
+    "location": [
+      {
+        "@type": "VirtualLocation",
+        "url": "https://caveat.nyc/events/off-off-campus-3-13-2023"
+      },
+      {
+        "@type": "Place",
+        "name": "Caveat",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "21 A Clinton Street",
+          "addressLocality": "New York",
+          "postalCode": "10002",
+          "addressRegion": "NY",
+          "addressCountry": "US"
+        }
+      }
+    ],
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https://caveat.nyc/events/off-off-campus-3-13-2023",
+        "price": 15,
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "url": "https://caveat.nyc/events/off-off-campus-3-13-2023",
+        "price": 10,
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "NY Is Phenomenal",
+    "startDate": "2023-03-17T21:30:00-05:00",
+    "endDate": "2023-03-17T23:00:00-05:00",
+    "image": [
+      "https://s3.amazonaws.com/caveat-web/web/showimages/QQeLWussWn9qU9g1lhkdb07zDzp9yTyO0HUoTwSzGMc.png"
+    ],
+    "description": "NYHosts Sebastian Conelli and Robbie Nunes have created New York’s most New York comedy show.",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Caveat",
+      "url": "https://caveat.nyc"
+    },
+    "eventAttendanceMode": "https://schema.org/MixedEventAttendanceMode",
+    "location": [
+      {
+        "@type": "VirtualLocation",
+        "url": "https://caveat.nyc/events/ny-is-phenomenal-3-17-2023"
+      },
+      {
+        "@type": "Place",
+        "name": "Caveat",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "21 A Clinton Street",
+          "addressLocality": "New York",
+          "postalCode": "10002",
+          "addressRegion": "NY",
+          "addressCountry": "US"
+        }
+      }
+    ],
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https://caveat.nyc/events/ny-is-phenomenal-3-17-2023",
+        "price": 18,
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "url": "https://caveat.nyc/events/ny-is-phenomenal-3-17-2023",
+        "price": 10,
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "RAAAATSCRAPS: The Best Improv Show in the World",
+    "startDate": "2023-03-19T19:30:00-05:00",
+    "endDate": "2023-03-19T21:00:00-05:00",
+    "image": [
+      "https://s3.amazonaws.com/caveat-web/web/showimages/YYwS39XdhV1tRgZB6fV7M8G3jMXvpA42gAbungyAvX8.png"
+    ],
+    "description": "THE BEST IMPROV SHOW in the world with a surprise guest monologist!",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Caveat",
+      "url": "https://caveat.nyc"
+    },
+    "eventAttendanceMode": "https://schema.org/MixedEventAttendanceMode",
+    "location": [
+      {
+        "@type": "VirtualLocation",
+        "url": "https://caveat.nyc/events/raaaatscraps-the-best-improv-show-in-the-world-3-19-2023"
+      },
+      {
+        "@type": "Place",
+        "name": "Caveat",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "21 A Clinton Street",
+          "addressLocality": "New York",
+          "postalCode": "10002",
+          "addressRegion": "NY",
+          "addressCountry": "US"
+        }
+      }
+    ],
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https://caveat.nyc/events/raaaatscraps-the-best-improv-show-in-the-world-3-19-2023",
+        "price": 18,
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "url": "https://caveat.nyc/events/raaaatscraps-the-best-improv-show-in-the-world-3-19-2023",
+        "price": 8,
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Abolish Everything: Tournament of Champions!",
+    "startDate": "2023-03-20T19:00:00-05:00",
+    "endDate": "2023-03-20T20:30:00-05:00",
+    "image": [
+      "https://s3.amazonaws.com/caveat-web/web/showimages/lCo1R-arh7aSTf_4IOyKkPUx3Ihn9rBVWEi--lU_Tco.png"
+    ],
+    "description": "ABOLISH EVERYTHING is a fun, dumb comedy debate show! Comedians testify against societal ills and improvisers grill them with questions.",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Caveat",
+      "url": "https://caveat.nyc"
+    },
+    "eventAttendanceMode": "https://schema.org/MixedEventAttendanceMode",
+    "location": [
+      {
+        "@type": "VirtualLocation",
+        "url": "https://caveat.nyc/events/abolish-everything-tournament-of-champions-3-20-2023"
+      },
+      {
+        "@type": "Place",
+        "name": "Caveat",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "21 A Clinton Street",
+          "addressLocality": "New York",
+          "postalCode": "10002",
+          "addressRegion": "NY",
+          "addressCountry": "US"
+        }
+      }
+    ],
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https://caveat.nyc/events/abolish-everything-tournament-of-champions-3-20-2023",
+        "price": 15,
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "url": "https://caveat.nyc/events/abolish-everything-tournament-of-champions-3-20-2023",
+        "price": 10,
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "RAAAATSCRAPS: The Best Improv Show in the World",
+    "startDate": "2023-03-26T19:30:00-05:00",
+    "endDate": "2023-03-26T21:00:00-05:00",
+    "image": [
+      "https://s3.amazonaws.com/caveat-web/web/showimages/v804231LKHQxBm7Mf7StZLQlm4s588_6widowm8nifw.png"
+    ],
+    "description": "THE BEST IMPROV SHOW in the world with a surprise guest monologist!",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Caveat",
+      "url": "https://caveat.nyc"
+    },
+    "eventAttendanceMode": "https://schema.org/MixedEventAttendanceMode",
+    "location": [
+      {
+        "@type": "VirtualLocation",
+        "url": "https://caveat.nyc/events/raaaatscraps-the-best-improv-show-in-the-world-3-26-2023"
+      },
+      {
+        "@type": "Place",
+        "name": "Caveat",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "21 A Clinton Street",
+          "addressLocality": "New York",
+          "postalCode": "10002",
+          "addressRegion": "NY",
+          "addressCountry": "US"
+        }
+      }
+    ],
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https://caveat.nyc/events/raaaatscraps-the-best-improv-show-in-the-world-3-26-2023",
+        "price": 18,
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "url": "https://caveat.nyc/events/raaaatscraps-the-best-improv-show-in-the-world-3-26-2023",
+        "price": 8,
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "The George Lucas Talk Show",
+    "startDate": "2023-03-29T19:00:00-05:00",
+    "endDate": "2023-03-29T20:30:00-05:00",
+    "image": [
+      "https://s3.amazonaws.com/caveat-web/web/showimages/hS1OsB9gU1O7Mni_d6XO3FtMVMYoDgBwJOUIA2g92Vc.png"
+    ],
+    "description": "“Retired Filmmaker George Lucas”, Watto, and Patrick (Cotnoir, as himself) bring their cult classic stage show and hit livestream to Caveat!",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Caveat",
+      "url": "https://caveat.nyc"
+    },
+    "eventAttendanceMode": "https://schema.org/MixedEventAttendanceMode",
+    "location": [
+      {
+        "@type": "VirtualLocation",
+        "url": "https://caveat.nyc/events/the-george-lucas-talk-show-3-29-2023"
+      },
+      {
+        "@type": "Place",
+        "name": "Caveat",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "21 A Clinton Street",
+          "addressLocality": "New York",
+          "postalCode": "10002",
+          "addressRegion": "NY",
+          "addressCountry": "US"
+        }
+      }
+    ],
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https://caveat.nyc/events/the-george-lucas-talk-show-3-29-2023",
+        "price": 18,
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "url": "https://caveat.nyc/events/the-george-lucas-talk-show-3-29-2023",
+        "price": 10,
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "The George Lucas Talk Show: After Dark",
+    "startDate": "2023-03-29T21:30:00-05:00",
+    "endDate": "2023-03-29T23:00:00-05:00",
+    "image": [
+      "https://s3.amazonaws.com/caveat-web/web/showimages/Ppz-JUnvQisWczaXNO0yjp_bErozSmLfhQBx37l09DI.png"
+    ],
+    "description": "“Retired Filmmaker George Lucas”, Watto, and Patrick (Cotnoir, as himself) bring their cult classic stage show and hit livestream to Caveat!",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Caveat",
+      "url": "https://caveat.nyc"
+    },
+    "eventAttendanceMode": "https://schema.org/MixedEventAttendanceMode",
+    "location": [
+      {
+        "@type": "VirtualLocation",
+        "url": "https://caveat.nyc/events/the-george-lucas-talk-show-after-dark-3-29-2023"
+      },
+      {
+        "@type": "Place",
+        "name": "Caveat",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "21 A Clinton Street",
+          "addressLocality": "New York",
+          "postalCode": "10002",
+          "addressRegion": "NY",
+          "addressCountry": "US"
+        }
+      }
+    ],
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https://caveat.nyc/events/the-george-lucas-talk-show-after-dark-3-29-2023",
+        "price": 18,
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "url": "https://caveat.nyc/events/the-george-lucas-talk-show-after-dark-3-29-2023",
+        "price": 10,
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "RAAAATSCRAPS: The Best Improv Show in the World",
+    "startDate": "2023-04-02T19:30:00-05:00",
+    "endDate": "2023-04-02T21:00:00-05:00",
+    "image": [
+      "https://s3.amazonaws.com/caveat-web/web/showimages/EgLNnP6Us0od5NExsOktNdB34tCnWHr3vCSyxWO32JQ.png"
+    ],
+    "description": "THE BEST IMPROV SHOW in the world with a surprise guest monologist!",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Caveat",
+      "url": "https://caveat.nyc"
+    },
+    "eventAttendanceMode": "https://schema.org/MixedEventAttendanceMode",
+    "location": [
+      {
+        "@type": "VirtualLocation",
+        "url": "https://caveat.nyc/events/raaaatscraps-the-best-improv-show-in-the-world-4-2-2023"
+      },
+      {
+        "@type": "Place",
+        "name": "Caveat",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "21 A Clinton Street",
+          "addressLocality": "New York",
+          "postalCode": "10002",
+          "addressRegion": "NY",
+          "addressCountry": "US"
+        }
+      }
+    ],
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https://caveat.nyc/events/raaaatscraps-the-best-improv-show-in-the-world-4-2-2023",
+        "price": 18,
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "url": "https://caveat.nyc/events/raaaatscraps-the-best-improv-show-in-the-world-4-2-2023",
+        "price": 8,
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "A Freestyle Rap Comedy Situation with FREE DAPS",
+    "startDate": "2023-04-03T19:00:00-05:00",
+    "endDate": "2023-04-03T20:30:00-05:00",
+    "image": [
+      "https://s3.amazonaws.com/caveat-web/web/showimages/htyP5sJvWRqwZnbnN6wS-HBmJJ4WhdikwCMuPMCFEA0.png"
+    ],
+    "description": "Expert freestylers create a hip-hop comedy concert about the audience",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Caveat",
+      "url": "https://caveat.nyc"
+    },
+    "eventAttendanceMode": "https://schema.org/MixedEventAttendanceMode",
+    "location": [
+      {
+        "@type": "VirtualLocation",
+        "url": "https://caveat.nyc/events/free-daps-4-3-2023"
+      },
+      {
+        "@type": "Place",
+        "name": "Caveat",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "21 A Clinton Street",
+          "addressLocality": "New York",
+          "postalCode": "10002",
+          "addressRegion": "NY",
+          "addressCountry": "US"
+        }
+      }
+    ],
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https://caveat.nyc/events/free-daps-4-3-2023",
+        "price": 15,
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "url": "https://caveat.nyc/events/free-daps-4-3-2023",
+        "price": 10,
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "RAAAATSCRAPS: The Best Improv Show in the World",
+    "startDate": "2023-04-09T19:30:00-05:00",
+    "endDate": "2023-04-09T21:00:00-05:00",
+    "image": [
+      "https://s3.amazonaws.com/caveat-web/web/showimages/EgLNnP6Us0od5NExsOktNdB34tCnWHr3vCSyxWO32JQ.png"
+    ],
+    "description": "THE BEST IMPROV SHOW in the world with a surprise guest monologist!",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Caveat",
+      "url": "https://caveat.nyc"
+    },
+    "eventAttendanceMode": "https://schema.org/MixedEventAttendanceMode",
+    "location": [
+      {
+        "@type": "VirtualLocation",
+        "url": "https://caveat.nyc/events/raaaatscraps-the-best-improv-show-in-the-world-4-9-2023"
+      },
+      {
+        "@type": "Place",
+        "name": "Caveat",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "21 A Clinton Street",
+          "addressLocality": "New York",
+          "postalCode": "10002",
+          "addressRegion": "NY",
+          "addressCountry": "US"
+        }
+      }
+    ],
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https://caveat.nyc/events/raaaatscraps-the-best-improv-show-in-the-world-4-9-2023",
+        "price": 18,
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "url": "https://caveat.nyc/events/raaaatscraps-the-best-improv-show-in-the-world-4-9-2023",
+        "price": 8,
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Anything But Standup!",
+    "startDate": "2023-04-12T21:30:00-05:00",
+    "endDate": "2023-04-12T23:00:00-05:00",
+    "image": [
+      "https://s3.amazonaws.com/caveat-web/web/showimages/LHkPMTF8_8LOIHhScGZkh2q9HyGhxWYYeiSdkolchiA.png"
+    ],
+    "description": "No riffing.  No crowdwork  No running the light  No, “Who's on the apps?”",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Caveat",
+      "url": "https://caveat.nyc"
+    },
+    "eventAttendanceMode": "https://schema.org/MixedEventAttendanceMode",
+    "location": [
+      {
+        "@type": "VirtualLocation",
+        "url": "https://caveat.nyc/events/anything-but-standup-4-12-2023"
+      },
+      {
+        "@type": "Place",
+        "name": "Caveat",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "21 A Clinton Street",
+          "addressLocality": "New York",
+          "postalCode": "10002",
+          "addressRegion": "NY",
+          "addressCountry": "US"
+        }
+      }
+    ],
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https://caveat.nyc/events/anything-but-standup-4-12-2023",
+        "price": 15,
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "url": "https://caveat.nyc/events/anything-but-standup-4-12-2023",
+        "price": 10,
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "RAAAATSCRAPS: The Best Improv Show in the World",
+    "startDate": "2023-04-16T19:30:00-05:00",
+    "endDate": "2023-04-16T21:00:00-05:00",
+    "image": [
+      "https://s3.amazonaws.com/caveat-web/web/showimages/EgLNnP6Us0od5NExsOktNdB34tCnWHr3vCSyxWO32JQ.png"
+    ],
+    "description": "THE BEST IMPROV SHOW in the world with a surprise guest monologist!",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Caveat",
+      "url": "https://caveat.nyc"
+    },
+    "eventAttendanceMode": "https://schema.org/MixedEventAttendanceMode",
+    "location": [
+      {
+        "@type": "VirtualLocation",
+        "url": "https://caveat.nyc/events/raaaatscraps-the-best-improv-show-in-the-world-4-16-2023"
+      },
+      {
+        "@type": "Place",
+        "name": "Caveat",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "21 A Clinton Street",
+          "addressLocality": "New York",
+          "postalCode": "10002",
+          "addressRegion": "NY",
+          "addressCountry": "US"
+        }
+      }
+    ],
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https://caveat.nyc/events/raaaatscraps-the-best-improv-show-in-the-world-4-16-2023",
+        "price": 18,
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "url": "https://caveat.nyc/events/raaaatscraps-the-best-improv-show-in-the-world-4-16-2023",
+        "price": 8,
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "My Life As A Rom Com",
+    "startDate": "2023-04-20T19:00:00-05:00",
+    "endDate": "2023-04-20T20:30:00-05:00",
+    "image": [
+      "https://s3.amazonaws.com/caveat-web/web/showimages/j_3ZTDGAw-5POeUbHWpI7wSRKQ-tvgv4G6iz_fdj_Mw.png"
+    ],
+    "description": "A comedy variety show by hopeless romantics, for anyone crazy enough to open their heart. ",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Caveat",
+      "url": "https://caveat.nyc"
+    },
+    "eventAttendanceMode": "https://schema.org/MixedEventAttendanceMode",
+    "location": [
+      {
+        "@type": "VirtualLocation",
+        "url": "https://caveat.nyc/events/my-life-as-a-rom-com-4-20-2023"
+      },
+      {
+        "@type": "Place",
+        "name": "Caveat",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "21 A Clinton Street",
+          "addressLocality": "New York",
+          "postalCode": "10002",
+          "addressRegion": "NY",
+          "addressCountry": "US"
+        }
+      }
+    ],
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https://caveat.nyc/events/my-life-as-a-rom-com-4-20-2023",
+        "price": 15,
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "url": "https://caveat.nyc/events/my-life-as-a-rom-com-4-20-2023",
+        "price": 10,
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "RAAAATSCRAPS: The Best Improv Show in the World",
+    "startDate": "2023-04-23T19:30:00-05:00",
+    "endDate": "2023-04-23T21:00:00-05:00",
+    "image": [
+      "https://s3.amazonaws.com/caveat-web/web/showimages/EgLNnP6Us0od5NExsOktNdB34tCnWHr3vCSyxWO32JQ.png"
+    ],
+    "description": "THE BEST IMPROV SHOW in the world with a surprise guest monologist!",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Caveat",
+      "url": "https://caveat.nyc"
+    },
+    "eventAttendanceMode": "https://schema.org/MixedEventAttendanceMode",
+    "location": [
+      {
+        "@type": "VirtualLocation",
+        "url": "https://caveat.nyc/events/raaaatscraps-the-best-improv-show-in-the-world-4-23-2023"
+      },
+      {
+        "@type": "Place",
+        "name": "Caveat",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "21 A Clinton Street",
+          "addressLocality": "New York",
+          "postalCode": "10002",
+          "addressRegion": "NY",
+          "addressCountry": "US"
+        }
+      }
+    ],
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https://caveat.nyc/events/raaaatscraps-the-best-improv-show-in-the-world-4-23-2023",
+        "price": 18,
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "url": "https://caveat.nyc/events/raaaatscraps-the-best-improv-show-in-the-world-4-23-2023",
+        "price": 8,
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "RAAAATSCRAPS: The Best Improv Show in the World",
+    "startDate": "2023-04-30T19:30:00-05:00",
+    "endDate": "2023-04-30T21:00:00-05:00",
+    "image": [
+      "https://s3.amazonaws.com/caveat-web/web/showimages/EgLNnP6Us0od5NExsOktNdB34tCnWHr3vCSyxWO32JQ.png"
+    ],
+    "description": "THE BEST IMPROV SHOW in the world with a surprise guest monologist!",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Caveat",
+      "url": "https://caveat.nyc"
+    },
+    "eventAttendanceMode": "https://schema.org/MixedEventAttendanceMode",
+    "location": [
+      {
+        "@type": "VirtualLocation",
+        "url": "https://caveat.nyc/events/raaaatscraps-the-best-improv-show-in-the-world-4-30-2023"
+      },
+      {
+        "@type": "Place",
+        "name": "Caveat",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "21 A Clinton Street",
+          "addressLocality": "New York",
+          "postalCode": "10002",
+          "addressRegion": "NY",
+          "addressCountry": "US"
+        }
+      }
+    ],
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https://caveat.nyc/events/raaaatscraps-the-best-improv-show-in-the-world-4-30-2023",
+        "price": 18,
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "url": "https://caveat.nyc/events/raaaatscraps-the-best-improv-show-in-the-world-4-30-2023",
+        "price": 8,
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "RAAAATSCRAPS: The Best Improv Show in the World",
+    "startDate": "2023-05-07T19:30:00-05:00",
+    "endDate": "2023-05-07T21:00:00-05:00",
+    "image": [
+      "https://s3.amazonaws.com/caveat-web/web/showimages/EgLNnP6Us0od5NExsOktNdB34tCnWHr3vCSyxWO32JQ.png"
+    ],
+    "description": "THE BEST IMPROV SHOW in the world with a surprise guest monologist!",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Caveat",
+      "url": "https://caveat.nyc"
+    },
+    "eventAttendanceMode": "https://schema.org/MixedEventAttendanceMode",
+    "location": [
+      {
+        "@type": "VirtualLocation",
+        "url": "https://caveat.nyc/events/raaaatscraps-the-best-improv-show-in-the-world-5-7-2023"
+      },
+      {
+        "@type": "Place",
+        "name": "Caveat",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "21 A Clinton Street",
+          "addressLocality": "New York",
+          "postalCode": "10002",
+          "addressRegion": "NY",
+          "addressCountry": "US"
+        }
+      }
+    ],
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https://caveat.nyc/events/raaaatscraps-the-best-improv-show-in-the-world-5-7-2023",
+        "price": 18,
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "url": "https://caveat.nyc/events/raaaatscraps-the-best-improv-show-in-the-world-5-7-2023",
+        "price": 8,
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "RAAAATSCRAPS: The Best Improv Show in the World",
+    "startDate": "2023-05-21T19:30:00-05:00",
+    "endDate": "2023-05-21T21:00:00-05:00",
+    "image": [
+      "https://s3.amazonaws.com/caveat-web/web/showimages/EgLNnP6Us0od5NExsOktNdB34tCnWHr3vCSyxWO32JQ.png"
+    ],
+    "description": "THE BEST IMPROV SHOW in the world with a surprise guest monologist!",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Caveat",
+      "url": "https://caveat.nyc"
+    },
+    "eventAttendanceMode": "https://schema.org/MixedEventAttendanceMode",
+    "location": [
+      {
+        "@type": "VirtualLocation",
+        "url": "https://caveat.nyc/events/raaaatscraps-the-best-improv-show-in-the-world-5-21-2023"
+      },
+      {
+        "@type": "Place",
+        "name": "Caveat",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "21 A Clinton Street",
+          "addressLocality": "New York",
+          "postalCode": "10002",
+          "addressRegion": "NY",
+          "addressCountry": "US"
+        }
+      }
+    ],
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https://caveat.nyc/events/raaaatscraps-the-best-improv-show-in-the-world-5-21-2023",
+        "price": 18,
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "url": "https://caveat.nyc/events/raaaatscraps-the-best-improv-show-in-the-world-5-21-2023",
+        "price": 8,
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    ]
+  }
+]

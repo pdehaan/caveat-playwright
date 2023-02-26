@@ -1,0 +1,19 @@
+{
+  "name": "caveat-playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "time node index",
+    "test": "# playwright test"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "Peter deHaan <peter@deseloper.com>",
+  "license": "MPL-2.0",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.31.1"
+  }
+}
