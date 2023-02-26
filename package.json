@@ -1,19 +1,25 @@
 {
   "name": "caveat-playwright",
-  "version": "1.0.0",
   "description": "",
+  "version": "1.0.0",
+  "author": "Peter deHaan <peter@deseloper.com>",
+  "bugs": {
+    "url": "https://github.com/pdehaan/caveat-playwright/issues"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.31.1"
+  },
+  "homepage": "https://github.com/pdehaan/caveat-playwright#readme",
+  "keywords": [],
+  "license": "MPL-2.0",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdehaan/caveat-playwright.git"
+  },
   "scripts": {
     "start": "time node index",
     "test": "# playwright test"
   },
-  "type": "module",
-  "keywords": [],
-  "author": "Peter deHaan <peter@deseloper.com>",
-  "license": "MPL-2.0",
-  "dependencies": {
-  },
-  "devDependencies": {
-    "@playwright/test": "^1.31.1"
-  }
+  "type": "module"
 }
